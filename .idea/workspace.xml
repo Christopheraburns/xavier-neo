@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="896f336c-85a5-40be-9d16-8a1764529f1f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z1qx0qqMbtIQc6C3VQYKFwV5tr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/observations" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/observations" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="neo2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="896f336c-85a5-40be-9d16-8a1764529f1f" name="Default Changelist" comment="" />
+      <created>1584017192030</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584017192030</updated>
+      <workItem from="1584017199792" duration="6008000" />
+      <workItem from="1588249574151" duration="656000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="370" y="772" key="FileChooserDialogImpl" timestamp="1584026375296">
+      <screen x="65" y="24" width="1015" height="1896" />
+    </state>
+    <state x="370" y="772" key="FileChooserDialogImpl/65.24.1015.1896@65.24.1015.1896" timestamp="1584026375296" />
+    <state width="949" height="676" key="GridCell.Tab.0.bottom" timestamp="1584028594724">
+      <screen x="65" y="24" width="1015" height="1896" />
+    </state>
+    <state width="949" height="676" key="GridCell.Tab.0.bottom/65.24.1015.1896@65.24.1015.1896" timestamp="1584028594724" />
+    <state width="949" height="676" key="GridCell.Tab.0.center" timestamp="1584028594722">
+      <screen x="65" y="24" width="1015" height="1896" />
+    </state>
+    <state width="949" height="676" key="GridCell.Tab.0.center/65.24.1015.1896@65.24.1015.1896" timestamp="1584028594721" />
+    <state width="949" height="676" key="GridCell.Tab.0.left" timestamp="1584028594720">
+      <screen x="65" y="24" width="1015" height="1896" />
+    </state>
+    <state width="949" height="676" key="GridCell.Tab.0.left/65.24.1015.1896@65.24.1015.1896" timestamp="1584028594720" />
+    <state width="949" height="676" key="GridCell.Tab.0.right" timestamp="1584028594723">
+      <screen x="65" y="24" width="1015" height="1896" />
+    </state>
+    <state width="949" height="676" key="GridCell.Tab.0.right/65.24.1015.1896@65.24.1015.1896" timestamp="1584028594723" />
+    <state x="235" y="801" key="com.intellij.ide.util.TipDialog" timestamp="1584017201811">
+      <screen x="65" y="24" width="1015" height="1896" />
+    </state>
+    <state x="235" y="801" key="com.intellij.ide.util.TipDialog/65.24.1015.1896@65.24.1015.1896" timestamp="1584017201811" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/neo2$main.coverage" NAME="main Coverage Results" MODIFIED="1584028594675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
